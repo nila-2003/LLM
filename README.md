@@ -1,4 +1,6 @@
+# LLM- 
 I have scrapped data from OpenWebText Corpus: https://skylion007.github.io/OpenWebTextCorpus/
+
 The model here has a single head. But, employing 4 layers might be better (4 decoders).
 
 # Research Papers:
